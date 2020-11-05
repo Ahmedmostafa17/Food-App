@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'PT Serif', serif;
+
+}
+body{
+    background-image: url(../images/back.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+ 
+}
+#search-form .back
+{
+    background: rgba(0, 0, 0, .2);
+    border-radius: 20px;
+}
+.container h1 img{
+width: 60px;
+height: 60px;
+}
+.container h1
+{
+    line-height: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
